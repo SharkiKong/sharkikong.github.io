@@ -1,10 +1,11 @@
 ## Welcome to my portfolio
+My name is **Roman Filimonov** and I student of Minsk College of Business as a programmer.
+I want to become a good programmer 'cause I really intrested in this theme.
 
-My name is Roman Filimonov and I student of Minsk College of Business
 
-### Markdown
+                                                          ##Interest##
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Of course I intrested in programmin, but at my free time as all student I think I like to play some video games or serfing internet
 
 ```markdown
 Syntax highlighted code block
